@@ -10,9 +10,9 @@ class conexion{
 public function __construct()
 {
 	$this->servidor = "localhost";
-	$this->usuario = "root";
-	$this->password = "";
-	$this->basedatos = "tw_empleado1";
+	$this->usuario = "tecno";
+	$this->password = "12345678";
+	$this->basedatos = "twcrud";
 	
 }
 //metedos de acceso set y get
