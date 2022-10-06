@@ -13,7 +13,7 @@ class Empleado extends conexion
    private $activo;
 
    //constructor
-   public function __construct()
+   public function Empleado()
    {   
       parent::conexion();
       $this->cod_emp=0;
