@@ -7,7 +7,7 @@ class conexion{
 	private $basedatos;
 
 //constructor
-public function __construct()
+public function Conexion()
 {
 	$this->servidor = "localhost";
 	$this->usuario = "tecno";
